@@ -11,3 +11,5 @@ Seaborn
 WordCloud
 Installation
 # You can install the required Python packages using the following command:
+pip install tweepy pandas numpy nltk matplotlib seaborn wordcloud
+# To run the project open the code in jupyter and install all the libraries and run 
